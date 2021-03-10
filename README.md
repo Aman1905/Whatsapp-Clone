@@ -1,3 +1,6 @@
+# To view the live app click below link
+https://whatsapp-clone-d2528.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
