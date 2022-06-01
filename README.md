@@ -1,5 +1,5 @@
-# To view the live app click below link
-https://whatsapp-clone-d2528.web.app
+<!-- # To view the live app click below link -->
+<!-- https://whatsapp-clone-d2528.web.app -->
 
 # Getting Started with Create React App
 
